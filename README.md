@@ -24,51 +24,9 @@ The project utilizes the following technologies:
 
 **Authentication:** JSON Web Tokens (JWT)
 
-**Video Playback:** Video.js
-## Installation
 
 
-    
 
-
-Clone the repository: git clone https://github.com/Kritarth2002/Netflix-with-Admin-Dashboard
-
-Navigate to the project directory:
-
-    cd netflix-clone
-Install the dependencies:
-
-    npm install
-
-
-Set up the environment variables:
-
-Create a .env file based on the provided .env.example file.
-
-Add the necessary configuration, such as database connection details and secret keys.
-Start the development server:
-
-    npm start
-
-Open your browser and access the application at http://localhost:3000
-## License
-
-
-This project is licensed under the MIT License.
-
-
-## Contributing
-
-Contributions are always welcome!
-
-See `contributing.md` for ways to get started.
-
-Please adhere to this project's `code of conduct`.
-
-
-## Acknowledgements
-
-The design and layout of this project were inspired by the Netflix UI.
 
 
 ## Screenshots
